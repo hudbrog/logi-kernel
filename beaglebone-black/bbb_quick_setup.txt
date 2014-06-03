@@ -2,7 +2,7 @@
 
 step 1
 
-Follow instruction at http://elinux.org/BeagleBoardUbuntu to create your sd card image for the beaglebone-black. (the following uses the latest stable 13.10 saucy)
+Follow instruction at http://elinux.org/Beagleboard:Ubuntu_On_BeagleBone_Black to create your sd card image for the beaglebone-black. (the following uses the latest stable 13.10 saucy)
 
 step 2 :
 
